@@ -41,6 +41,7 @@
 			<div class="container">
 				<div class="top-hr"></div>
 			</div>
+			<h1> hola </h1>
 		{/if}
 		{if isset($adminActionDisplay) && $adminActionDisplay}
 			<div id="admin-action" class="container">
